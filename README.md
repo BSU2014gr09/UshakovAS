@@ -1,3 +1,2 @@
-## SHORT INFO
-Unlike ordinary git branch management in this repo **master** branch will contain only info about other branches. 
-Every branch with excluding master relates to specific lab or alternative lab realization. 
+## LAB TASK 23
+После каждого слова строки, оканчивающегося заданной подстрокой, вставить указанный символ.
